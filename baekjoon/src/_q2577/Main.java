@@ -40,7 +40,7 @@ public class Main {
 				nine++;
 			}
 		}
-		System.out.printf("%d\n %d\n %d\n %d\n %d\n %d\n %d\n %d\n %d\n %d\n", zero, one, two, three, four, five, six, seven, eight,
+		System.out.printf("%d\n%d\n%d\n%d\n%d\n%d\n%d\n%d\n%d\n%d\n", zero, one, two, three, four, five, six, seven, eight,
 				nine);
 	}
 }
