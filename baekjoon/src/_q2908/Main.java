@@ -32,7 +32,7 @@ public class Main {
 			arr1[i] = str1.charAt(str1.length()-1-i);
 		}
 		
-		for(int i = 0; i<str2.length(); i++) {
+		for(int i = 0; i<str2.length(); i++) {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 			arr2[i] = str2.charAt(str2.length()-1-i);
 		}
 		
